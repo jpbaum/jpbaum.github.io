@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["J3P6A2UR69.com.bauman.venture"],
+        "components": [
+          { "/": "/plaid/*", "comment": "Plaid sends you back here after logging in on a bank's website (e.g. Chase)" }
+        ]
+      }
+    ]
+  }
+}
